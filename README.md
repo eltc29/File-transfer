@@ -1,4 +1,7 @@
-Download the repo to your computer. To run the program:
+## Server-Client File Transfer Program
+
+Instructions:
+- Clone repo to your computer.
 - In the directory you downloaded the files, open two Linux terminals(one for the client and the other for the server).
 - First, run `gcc client.c -o client`, then `gcc server.c -o server` to compile the files.
 - In one of the terminal, run `./server PORTNUMBER` (could be any port number,for e.g. 5000).
